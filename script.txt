@@ -1,0 +1,16 @@
+#VIDEO_TEMPLATE 1.1 - Intro to paper prototyping
+
+
+#VIDEO_TEMPLATE 1.2 - Outro to paper prototyping
+
+
+
+#VIDEO_TEMPLATE 1.1 - Intro to paper prototyping
+Hey Chris from Codify Academy here, in this video I want to discuss what paper prototyping is. and why you should use it when building websites.
+
+
+
+
+
+#VIDEO_TEMPLATE 1.2 - Outro to
+Well that's it for now, hopefully, you'll remember when to use these but as always practice with it and review. and don't be afraid to try and get stuff wrong you can try applying display: block, inline or inline-block to any tag you want!
